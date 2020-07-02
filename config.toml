@@ -2,9 +2,9 @@
 
 
 title = "Home"
-baseURL = "https://example.com"
+baseURL = "https://webdeveloper25m.github.io/"
 languageCode = "en-us"
-
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
